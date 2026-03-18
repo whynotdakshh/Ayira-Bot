@@ -1,0 +1,32 @@
+{
+  "prefix": "!",
+  "owner": {
+    "name": "Dakshhh Op",
+    "id": "1304640723458457712"
+  },
+  "lavalink": {
+    "nodes": [
+      {
+        "identifier": "Ayira Node",
+        "host": "lava-v4.ajieblogs.eu.org",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true
+      }
+    ]
+  },
+  "webhooks": {
+    "commandLog": "https://discord.com/api/webhooks/1434237034167406683/RhSg0iZBQ1fb5Jy5-oiZrvo_ksYPytyuJHb67BHklRy8gOOP7oTF26xwOlRN8Ff5TuWq",
+    "premiumLog": "https://discord.com/api/webhooks/1434237034167406683/RhSg0iZBQ1fb5Jy5-oiZrvo_ksYPytyuJHb67BHklRy8gOOP7oTF26xwOlRN8Ff5TuWq",
+    "blacklistLog": "https://discord.com/api/webhooks/1434237034167406683/RhSg0iZBQ1fb5Jy5-oiZrvo_ksYPytyuJHb67BHklRy8gOOP7oTF26xwOlRN8Ff5TuWq",
+    "noPrefixLog": "https://discord.com/api/webhooks/1434237034167406683/RhSg0iZBQ1fb5Jy5-oiZrvo_ksYPytyuJHb67BHklRy8gOOP7oTF26xwOlRN8Ff5TuWq",
+    "errorLog": "https://discord.com/api/webhooks/1434237034167406683/RhSg0iZBQ1fb5Jy5-oiZrvo_ksYPytyuJHb67BHklRy8gOOP7oTF26xwOlRN8Ff5TuWq",
+    "botStatusLog": "https://discord.com/api/webhooks/1434237034167406683/RhSg0iZBQ1fb5Jy5-oiZrvo_ksYPytyuJHb67BHklRy8gOOP7oTF26xwOlRN8Ff5TuWq"
+  },
+  "spotify": {
+    "clientId": "85aab1d51a174aad9eed6d7989f530e6",
+    "clientSecret": "b2ad05aa725e434c88776a1be8eab6c"
+  }
+}
+
+
